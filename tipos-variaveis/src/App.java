@@ -26,7 +26,7 @@ public class App {
         System.out.println("Ativo: " + ativo2);
 
         // Constantes
-        final double VALOR_PI = 3.1415;
+        //final double VALOR_PI = 3.1415;
 
     }
 }
