@@ -74,5 +74,28 @@ public class operadores {
         
         System.out.println(resultado); // Imprime "Maior de idade"
 
+        //Validações
+
+        String nome1 = "João";
+        String nome2 = new String("João");
+
+
+        System.out.println(nome1 == nome2); // true
+        System.out.println(nome1.equals(nome2)); // true
+
+
+
+        int numero1 = 10;
+        int numero2 = 20;
+
+        if (numero1 > numero2) {
+            System.out.println("O número 1 é maior que o número 2");
+        } else if (numero1 < numero2) {
+            System.out.println("O número 1 é menor que o número 2");
+        } else {
+            System.out.println("Os números são iguais");
+            
+        }
+
     }
 }
