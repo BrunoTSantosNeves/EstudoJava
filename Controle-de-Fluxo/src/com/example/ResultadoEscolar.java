@@ -1,3 +1,6 @@
+package com.example;
+
+
 public class ResultadoEscolar {
     /*
      * Mostrando uma estrutura condicional encadeada
