@@ -16,7 +16,7 @@ public class ForArray {
             /*
              * O for também pode ser utilizado para percorrer arrays de Strings.
              * nomes é um array de Strings que contém os nomes Alice, Bob, Charlie, David e Eve.
-             * O for percorre o array e imprime o valor de cada elemento.
+             * O for percorre o array e imprime o valor de cada elemento. (Descomente o código abaixo)
              */
 
        // for (int j = 0; j < nomes.length; j++) {
