@@ -14,8 +14,6 @@ public class Abaoutme {
 
         try{
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
-        
-        
 
         System.out.println("Enter your name: ");
         String name = scanner.nextLine();
